@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a passionate software engineering student and tech enthusiast from Myanmar.
+Hello! My name is Myint Myat Pyae Sone and I'm a passionate software engineering student and tech enthusiast from Myanmar.
 My journey in the tech world is shaped by my love for continuous learning and problem-solving. Despite the challenges of living in a third-world country under military rule,
 I've pursued my passion for technology and personal growth.<br><br>My DevOps Journey<br>I'm currently diving deep into the world of DevOps, with a focus on Linux,
 which I'm studying through the 'Introduction to Linux' course offered by the Linux Foundation. I find some concepts challenging but am committed to mastering them.
