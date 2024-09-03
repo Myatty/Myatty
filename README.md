@@ -7,7 +7,7 @@ I use my 'java-spring-101' GitHub repository to document my lessons and projects
 One of my notable projects is a Java EE banking system, which was recently selected for a project showcase.And I've been working on FullStack development using MERN stack. <br><br>I'm always eager to explore new technologies
 and contribute to open-source projects. My interests extend beyond programming to include English language learning, which I see as crucial for global communication
 and collaboration.<br><br>I'm open to collaboration and always looking for opportunities to learn and grow. Feel free to check out my repositories and
-connect with me!
+connect with me!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myatty&label=Profile%20views&color=0e75b6&style=flat" alt="myatty" /> </p>
 
