@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm <strong>Myint Myat Pyae Sone</strong></h1>
 
 <p >
-A passionate <strong>Software Engineering Student</strong> and tech enthusiast from <strong>Myanmar</strong> 🇲🇲
+A <strong>Google Cloud Certified Associate Cloud Engineer</strong> and Software Engineer from <strong>Myanmar</strong> 🇲🇲
 </p>
 
 <p >
