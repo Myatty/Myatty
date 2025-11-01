@@ -1,24 +1,54 @@
 <h1 align="center">Hello! I'm <strong>Myint Myat Pyae Sone</strong></h1>
 
-<p >
-A <strong>Google Cloud Certified Associate Cloud Engineer</strong> and Software Engineer from <strong>Myanmar</strong> 🇲🇲
+<p align="center">
+  <strong>Google Cloud Certified Associate Cloud Engineer</strong> | <strong>DevOps Engineer</strong> | <strong>Software Engineer</strong>  
+  <br>
+  From <strong>Myanmar 🇲🇲</strong>
 </p>
 
-<p >
-  I'm currently diving into <strong>DevOps</strong>, studying <strong>Linux</strong> through the <em>Linux Foundation</em>, and exploring <strong>CI/CD</strong> with <strong>GitLab</strong>, <strong>Jenkins</strong> and <strong>Kubernetes</strong>. I've already completed <strong>Docker</strong> and <strong>Docker Compose</strong> and am now preparing for the <strong>AWS Certified Solutions Architect – Associate</strong> certification.
+---
+
+### About Me
+
+I’m a **DevOps Engineer and Software Engineer** with hands-on experience in **cloud infrastructure, automation, and CI/CD pipelines**.  
+I’ve completed a **DevOps internship at A bank**, where I:
+
+- Built CI/CD pipelines for Java Spring Boot and .NET microservices in a monorepo setup.  
+- Integrated **GitLab CI** with **Argo CD** for GitOps-based Kubernetes deployments.  
+- Improved CI performance using **caching strategies** and container build optimizations.  
+- Managed **Nexus Repository Manager** for centralized dependency and artifact management.
+
+---
+
+### DevOps & Cloud Skills
+
+- **Cloud Platforms:** Google Cloud (Certified ACE), AWS, Azure
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **Infrastructure as Code:** Terraform  
+- **CI/CD & GitOps:** GitLab CI, Argo CD, Jenkins  
+- **Monitoring & Automation:** Prometheus, Linux, Bash scripting, Cloud deployment automation
+
+---
+
+### Backend Development
+
+- **Languages:** Go, Java, JavaScript (Node.js / Express.js)  
+- **Frameworks:** Spring Boot, Express.js, Fiber, Gin  
+- **Databases:** MySQL, PostgreSQL, MongoDB 
+
+---
+
+### Currently Exploring
+
+- Preparing for **CKA (Certified Kubernetes Administrator)** and **AWS Solutions Architect – Associate**  
+- Expanding infrastructure automation and platform engineering knowledge  
+
+---
+
+<p align="center">
+  <strong>“Automate. Optimize. Deliver.”</strong>  
 </p>
 
-<p >
-  I also have a strong foundation in <strong>Java</strong> and I'm expanding my skills with <strong>Spring Boot</strong> and improving my code quality with <strong>SOLID</strong> principle and <strong>Design Patterns</strong> to teach myself how to write concise and clean code.
-</p>
-
-<p >
-  I’ve worked on projects like a <strong>CashNex Java EE banking system</strong> and am exploring FullStack development using the <strong>MERN Stack</strong>. 
-</p>
-
-<p >
-  I'm passionate about <strong>Open Source</strong> and lifelong learning.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myatty&label=Profile%20views&color=0e75b6&style=flat" alt="myatty" />
