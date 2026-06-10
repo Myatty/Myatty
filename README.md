@@ -22,7 +22,7 @@ I’ve completed a **DevOps internship at A bank**, where I:
 
 ### DevOps & Cloud Skills
 
-- **Cloud Platforms:** Google Cloud (Certified ACE), AWS Certified SAA, Azure
+- **Cloud Platforms:** Google Cloud (Certified ACE), AWS (Certified SAA)
 - **Containerization & Orchestration:** Docker, Kubernetes  
 - **Infrastructure as Code:** Terraform  
 - **CI/CD & GitOps:** GitLab CI, Argo CD, Jenkins  
